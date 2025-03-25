@@ -93,6 +93,10 @@ mysql-mcp-server mysql://user:password@localhost:3306/mydb
    - Click "Save" or press `Cmd + S`
    - Restart Cursor for the changes to take effect
 
+### How to use it on Cursor?
+Open the Agentic chat on Cursor and start asking questions related to our DB and it will have all the context
+![ezgif-3bb869e455a41b](https://github.com/user-attachments/assets/2b765170-52e7-472d-bb47-fb5ebf0acd7b)
+
 ### Security Best Practices
 
 1. Use environment variables for sensitive credentials:
